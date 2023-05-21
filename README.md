@@ -2,7 +2,7 @@
 
 ### 프로그래머스 
 
-Q71
+Q) 숨어있는 숫자의 덧셈 (2) 71/100 
 ```java
 class Solution {
     public int solution(String my_string) {
